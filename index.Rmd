@@ -1,0 +1,12 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/Michelle_Greene.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I am an Assistant Professor in the [Program in Neuroscience](https://www.bates.edu/neuroscience/) at [Bates College](https://www.bates.edu/). My research combines approaches from machine learning, experimental psychology, and cognitive neuroscience in order to understand the processes that enable rapid visual perception.
+
+I graduated from the [MIT](http://www.mit.edu) with a PhD in cognitive science in 2009. I did postdoctoral training in Jeremy Wolfe's [Visual Attention Lab](http://search.bwh.harvard.edu/new/index.html), and Fei-Fei Li's [Stanford Vision Lab](http://vision.stanford.edu/) before joining the Bates faculty in 2017.
+
+My full CV is available [here](files/GreeneCV.pdf).
