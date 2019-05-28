@@ -1,0 +1,26 @@
+name: "Michelle R. Greene"
+output_dir: "."
+navbar:
+  title: "Michelle R. Greene"
+  left:
+    - text: "Research"
+      href: research.html
+    - text: "Lab Members"
+      href: talks.html
+    - text: "Publications"
+      href: software.html
+    - text: "Teaching"
+      href: teaching.html
+  right:
+    - icon: fa-envelope fa-lg
+      href: contact.html
+    - icon: fa-github fa-lg
+      href: https://github.com/mrgreene09
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/MGreenePhD
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/michelle-greene-35435925/
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
